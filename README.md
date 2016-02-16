@@ -1,5 +1,5 @@
 <a href="http://web-crew.org/">
-    <img src="http://web-crew.org/img/logo-header.png" alt="WebCrew logo"
+    <img src="http://web-crew.org/img/logo.png" alt="WebCrew logo"
          title="HumHub PALAREAS Theme copyright 2016 by WebCrew/Andreas Holzer" align="right" />
 </a>
 
