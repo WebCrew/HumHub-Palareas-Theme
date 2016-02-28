@@ -161,11 +161,34 @@ input[type=select] {
 }
 
 .login-container {
-    background-color: #272833;
-    background-image: linear-gradient(to right, #272833 0, #41739e 50%, #262833 100%), linear-gradient(to right,  #272833 0, #41739e 50%, #262833 100%);
-    background-size: 100% 100%;
-    position: relative;
-    padding-top: 40px
+    background: linear-gradient(183deg, #272833, #267cc3, #ca1c86, #dbd713);
+    background-size: 800% 800%;
+    padding-top: 40px;
+
+    -webkit-animation: login-container 30s ease infinite;
+    -moz-animation: login-container 30s ease infinite;
+    -o-animation: login-container 30s ease infinite;
+    animation: login-container 30s ease infinite;
+}
+    @-webkit-keyframes login-container {
+        0%{background-position:50% 0%}
+        50%{background-position:50% 100%}
+        100%{background-position:50% 0%}
+}
+    @-moz-keyframes login-container {
+        0%{background-position:50% 0%}
+        50%{background-position:50% 100%}
+        100%{background-position:50% 0%}
+}
+    @-o-keyframes login-container {
+        0%{background-position:50% 0%}
+        50%{background-position:50% 100%}
+        100%{background-position:50% 0%}
+}
+    @keyframes login-container { 
+        0%{background-position:50% 0%}
+        50%{background-position:50% 100%}
+        100%{background-position:50% 0%}
 }
 
 .login-container .text {
