@@ -20,7 +20,7 @@ kind regards, Andreas
 **Screenshot**
 Here You can see a screenshot of the theme.
 <a href="http://hh.palareas.de/">
-    <img src="http://hh.palareas.de/themes/Palareas/palareas_theme.jpg" alt="Theme Screenshot"
+    <img src="https://github.com/WebCrew/HumHub-Palareas-Theme/palareas_theme.jpg" alt="Theme Screenshot"
          title="HumHub PALAREAS Theme" align="right" />
 </a>
 
