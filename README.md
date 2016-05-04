@@ -24,10 +24,6 @@ Here You can see a screenshot of the theme.
          title="HumHub PALAREAS Theme" align="right" />
 </a>
 
-**Want see a demo?** 
-Visit [Palareas.de]  (http://hh.palareas.de)
-
-You have to register a account, but You know, its a simple and fast task :)
 
 ## REQUIREMENTS
 
