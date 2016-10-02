@@ -9,7 +9,7 @@ HumHub PALAREAS theme is the theme I use for my own social network project calle
 Cause I want to contribute something to the nice HumHub community, I give away the theme for free.
 Everyone can make use of it and update it to fit Your needs.
 
-The theme is working for HumHub versions 0.20+
+The theme is working for HumHub versions 0.20 to 1.0.0 (I will no longer update the theme)
 
 I will integrate some more features and also extra module styles in the next time.
 
